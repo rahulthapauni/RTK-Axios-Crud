@@ -1,0 +1,82 @@
+[
+	{
+		"name": "John Carter",
+		"email": "john.carter@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=1",
+		"bio": "Frontend Developer with 3 years experience.",
+		"isHighlighted": false,
+		"id": "1"
+	},
+	{
+		"name": "Emma Watson",
+		"email": "emma.watson@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=2",
+		"bio": "UI/UX Designer passionate about clean design.",
+		"isHighlighted": true,
+		"id": "2"
+	},
+	{
+		"name": "Michael Brown",
+		"email": "michael.brown@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=3",
+		"bio": "Backend Engineer specializing in Node.js.",
+		"isHighlighted": false,
+		"id": "3"
+	},
+	{
+		"name": "Sophia Taylor",
+		"email": "sophia.taylor@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=4",
+		"bio": "Full Stack Developer and tech blogger.",
+		"isHighlighted": true,
+		"id": "4"
+	},
+	{
+		"name": "David Wilson",
+		"email": "david.wilson@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=5",
+		"bio": "DevOps Engineer focusing on CI/CD pipelines.",
+		"isHighlighted": false,
+		"id": "5"
+	},
+	{
+		"name": "Olivia Martinez",
+		"email": "olivia.martinez@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=6",
+		"bio": "React Developer building scalable web apps.",
+		"isHighlighted": false,
+		"id": "6"
+	},
+	{
+		"name": "James Anderson",
+		"email": "james.anderson@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=7",
+		"bio": "Software Engineer with interest in AI.",
+		"isHighlighted": true,
+		"id": "7"
+	},
+	{
+		"name": "Ava Thomas",
+		"email": "ava.thomas@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=8",
+		"bio": "Product Manager with strong technical background.",
+		"isHighlighted": false,
+		"id": "8"
+	},
+	{
+		"name": "William Harris",
+		"email": "william.harris@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=9",
+		"bio": "Cloud Engineer experienced in AWS and Azure.",
+		"isHighlighted": false,
+		"id": "9"
+	},
+	{
+		"name": "Isabella Clark",
+		"email": "isabella.clark@example.com",
+		"avatar": "https://i.pravatar.cc/150?img=10",
+		"bio": "QA Engineer ensuring product quality.",
+		"isHighlighted": true,
+		"id": "10"
+	}
+]
